@@ -9,6 +9,7 @@
 
 ### Example:
 ```local fruits = ["mango", "banana", "watermelon"];```
+
 ```print(includes(fruits, "mango")) //returns true if the item is in variable else false.```
 
 ---
