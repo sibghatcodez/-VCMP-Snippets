@@ -1,4 +1,4 @@
-# -VCMP-Snippets
+# -VC:MP-Snippet - 1
 
 
 # **Include Function**
@@ -10,3 +10,10 @@
 ### Example:
 ```local fruits = ["mango", "banana", "watermelon"];```
 
+
+# -VC:MP-Snippet - 2
+
+# Text Filter Function:
+- Prevents abusive language and toxic behavior by automatically filtering and replacing offensive words with asterisks.
+- Say goodbye to offensive language and enjoy a more enjoyable gaming experience.
+- Let's create a fun and inclusive vcmp community together! <3
