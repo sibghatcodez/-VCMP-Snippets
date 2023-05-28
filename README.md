@@ -8,9 +8,9 @@
 - It has simple syntax, include(arrayName, var)
 
 ### Example:
-```local fruits = ["mango", "banana", "watermelon"];```
+```local fruits = ["mango", "banana", "watermelon"];
 
-```print(includes(fruits, "mango")) //returns true if the item is in variable else false.```
+print(includes(fruits, "mango")) //returns true if the item is in variable else false.```
 
 ---
 
