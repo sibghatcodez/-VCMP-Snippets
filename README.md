@@ -11,6 +11,8 @@
 ```local fruits = ["mango", "banana", "watermelon"];```
 
 
+---
+
 # -VC:MP-Snippet - 2
 
 # Text Filter Function:
