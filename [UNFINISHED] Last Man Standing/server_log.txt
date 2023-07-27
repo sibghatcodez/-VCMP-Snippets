@@ -1,0 +1,5622 @@
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 0
+[newHour] 12
+[oldMin] 0
+[oldHour] 0
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 1
+[newHour] 12
+[oldMin] 0
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 2
+[newHour] 12
+[oldMin] 1
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 3
+[newHour] 12
+[oldMin] 2
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 4
+[newHour] 12
+[oldMin] 3
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 5
+[newHour] 12
+[oldMin] 4
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 6
+[newHour] 12
+[oldMin] 5
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 7
+[newHour] 12
+[oldMin] 6
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 8
+[newHour] 12
+[oldMin] 7
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 9
+[newHour] 12
+[oldMin] 8
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 10
+[newHour] 12
+[oldMin] 9
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 11
+[newHour] 12
+[oldMin] 10
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 12
+[newHour] 12
+[oldMin] 11
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 13
+[newHour] 12
+[oldMin] 12
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 14
+[newHour] 12
+[oldMin] 13
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 15
+[newHour] 12
+[oldMin] 14
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 16
+[newHour] 12
+[oldMin] 15
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 17
+[newHour] 12
+[oldMin] 16
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 18
+[newHour] 12
+[oldMin] 17
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 19
+[newHour] 12
+[oldMin] 18
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 20
+[newHour] 12
+[oldMin] 19
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 21
+[newHour] 12
+[oldMin] 20
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 22
+[newHour] 12
+[oldMin] 21
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 23
+[newHour] 12
+[oldMin] 22
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 24
+[newHour] 12
+[oldMin] 23
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 25
+[newHour] 12
+[oldMin] 24
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 26
+[newHour] 12
+[oldMin] 25
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 27
+[newHour] 12
+[oldMin] 26
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 28
+[newHour] 12
+[oldMin] 27
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 29
+[newHour] 12
+[oldMin] 28
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 30
+[newHour] 12
+[oldMin] 29
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 31
+[newHour] 12
+[oldMin] 30
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 32
+[newHour] 12
+[oldMin] 31
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 33
+[newHour] 12
+[oldMin] 32
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 34
+[newHour] 12
+[oldMin] 33
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 35
+[newHour] 12
+[oldMin] 34
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 36
+[newHour] 12
+[oldMin] 35
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 37
+[newHour] 12
+[oldMin] 36
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 38
+[newHour] 12
+[oldMin] 37
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 39
+[newHour] 12
+[oldMin] 38
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 40
+[newHour] 12
+[oldMin] 39
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [539]
+
+LOCALS
+[newMin] 41
+[newHour] 12
+[oldM[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [An out of range column index was specified]
+
+CALLSTACK
+*FUNCTION [GetInfo()] scripts/main.nut line [509]
+*FUNCTION [onPlayerJoin()] scripts/main.nut line [65]
+
+LOCALS
+[q_2] USERPOINTER
+[q] USERPOINTER
+[player] INSTANCE
+[this] TABLE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 3
+[newHour] 12
+[oldMin] 2
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 4
+[newHour] 12
+[oldMin] 3
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 5
+[newHour] 12
+[oldMin] 4
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 6
+[newHour] 12
+[oldMin] 5
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 7
+[newHour] 12
+[oldMin] 6
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 8
+[newHour] 12
+[oldMin] 7
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 9
+[newHour] 12
+[oldMin] 8
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 10
+[newHour] 12
+[oldMin] 9
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 11
+[newHour] 12
+[oldMin] 10
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 12
+[newHour] 12
+[oldMin] 11
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 13
+[newHour] 12
+[oldMin] 12
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 14
+[newHour] 12
+[oldMin] 13
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 15
+[newHour] 12
+[oldMin] 14
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 16
+[newHour] 12
+[oldMin] 15
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 17
+[newHour] 12
+[oldMin] 16
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 18
+[newHour] 12
+[oldMin] 17
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [541]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 19
+[newHour] 12
+[oldMin] 18
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'player' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] [MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0
+[player] INSTANCE
+[this] TABLE
+[newZ] 32.794399261475
+[newY] -442.61810302734
+[newX] -232.03140258789
+[lastZ] 0
+[lastY] 0
+[lastX] 0
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852800369263
+[newY] -597.05932617188
+[newX] -293.01431274414
+[lastZ] 32.794399261475
+[lastY] -442.61810302734
+[lastX] -232.03140258789
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 32.79439163208
+[newY] -442.61810302734
+[newX] -232.03140258789
+[lastZ] 12.852800369263
+[lastY] -597.05932617188
+[lastX] -293.01431274414
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.05932617188
+[newX] -293.01431274414
+[lastZ] 32.79439163208
+[lastY] -442.61810302734
+[lastX] -232.03140258789
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.06372070313
+[newX] -293.00436401367
+[lastZ] 12.852766990662
+[lastY] -597.05932617188
+[lastX] -293.01431274414
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.06585693359
+[newX] -293.00054931641
+[lastZ] 12.852766990662
+[lastY] -597.06372070313
+[lastX] -293.00436401367
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.07092285156
+[newX] -292.99346923828
+[lastZ] 12.852766990662
+[lastY] -597.06585693359
+[lastX] -293.00054931641
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.07287597656
+[newX] -292.99133300781
+[lastZ] 12.852766990662
+[lastY] -597.07092285156
+[lastX] -292.99346923828
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.07470703125
+[newX] -292.98959350586
+[lastZ] 12.852766990662
+[lastY] -597.07287597656
+[lastX] -292.99133300781
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.07879638672
+[newX] -292.98638916016
+[lastZ] 12.852766990662
+[lastY] -597.07470703125
+[lastX] -292.98959350586
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.08026123047
+[newX] -292.9853515625
+[lastZ] 12.852766990662
+[lastY] -597.07879638672
+[lastX] -292.98638916016
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.03847694397
+[newY] -597.21527099609
+[newX] -292.8876953125
+[lastZ] 12.852766990662
+[lastY] -597.08026123047
+[lastX] -292.9853515625
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.122994422913
+[newY] -597.28277587891
+[newX] -292.8388671875
+[lastZ] 13.03847694397
+[lastY] -597.21527099609
+[lastX] -292.8876953125
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.34317779541
+[newY] -597.48529052734
+[newX] -292.6923828125
+[lastZ] 13.122994422913
+[lastY] -597.28277587891
+[lastX] -292.8388671875
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.462174415588
+[newY] -597.62030029297
+[newX] -292.5947265625
+[lastZ] 13.34317779541
+[lastY] -597.48529052734
+[lastX] -292.6923828125
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.598985671997
+[newY] -597.82281494141
+[newX] -292.4482421875
+[lastZ] 13.462174415588
+[lastY] -597.62030029297
+[lastX] -292.5947265625
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.685780525208
+[newY] -598.02532958984
+[newX] -292.3017578125
+[lastZ] 13.598985671997
+[lastY] -597.82281494141
+[lastX] -292.4482421875
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.72256565094
+[newY] -598.22784423828
+[newX] -292.15530395508
+[lastZ] 13.685780525208
+[lastY] -598.02532958984
+[lastX] -292.3017578125
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.709342002869
+[newY] -598.43035888672
+[newX] -292.00891113281
+[lastZ] 13.72256565094
+[lastY] -598.22784423828
+[lastX] -292.15530395508
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.672746658325
+[newY] -598.56536865234
+[newX] -291.91131591797
+[lastZ] 13.709342002869
+[lastY] -598.43035888672
+[lastX] -292.00891113281
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.576189041138
+[newY] -598.76776123047
+[newX] -291.7649230957
+[lastZ] 13.672746658325
+[lastY] -598.56536865234
+[lastX] -291.91131591797
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.429634094238
+[newY] -598.97009277344
+[newX] -291.61853027344
+[lastZ] 13.576189041138
+[lastY] -598.76776123047
+[lastX] -291.7649230957
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.233088493347
+[newY] -599.17242431641
+[newX] -291.47213745117
+[lastZ] 13.429634094238
+[lastY] -598.97009277344
+[lastX] -291.61853027344
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.986574172974
+[newY] -599.37475585938
+[newX] -291.32574462891
+[lastZ] 13.233088493347
+[lastY] -599.17242431641
+[lastX] -291.47213745117
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.85275554657
+[newY] -599.57318115234
+[newX] -291.29989624023
+[lastZ] 12.986574172974
+[lastY] -599.37475585938
+[lastX] -291.32574462891
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852744102478
+[newY] -599.76330566406
+[newX] -291.51547241211
+[lastZ] 12.85275554657
+[lastY] -599.57318115234
+[lastX] -291.29989624023
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852733612061
+[newY] -599.93127441406
+[newX] -291.72598266602
+[lastZ] 12.852744102478
+[lastY] -599.76330566406
+[lastX] -291.51547241211
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.85272693634
+[newY] -600.03845214844
+[newX] -291.87002563477
+[lastZ] 12.852733612061
+[lastY] -599.93127441406
+[lastX] -291.72598266602
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852723121643
+[newY] -600.08850097656
+[newX] -291.93725585938
+[lastZ] 12.85272693634
+[lastY] -600.03845214844
+[lastX] -291.87002563477
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852714538574
+[newY] -600.2265625
+[newX] -292.1227722168
+[lastZ] 12.852723121643
+[lastY] -600.08850097656
+[lastX] -291.93725585938
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852704048157
+[newY] -600.39129638672
+[newX] -292.34414672852
+[lastZ] 12.852714538574
+[lastY] -600.2265625
+[lastX] -292.1227722168
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852697372437
+[newY] -600.49151611328
+[newX] -292.47882080078
+[lastZ] 12.852704048157
+[lastY] -600.39129638672
+[lastX] -292.34414672852
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852695465088
+[newY] -600.55633544922
+[newX] -292.48831176758
+[lastZ] 12.852697372437
+[lastY] -600.49151611328
+[lastX] -292.47882080078
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852694511414
+[newY] -600.55383300781
+[newX] -292.50668334961
+[lastZ] 12.852695465088
+[lastY] -600.55633544922
+[lastX] -292.48831176758
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852694511414
+[newY] -600.55194091797
+[newX] -292.52047729492
+[lastZ] 12.852694511414
+[lastY] -600.55383300781
+[lastX] -292.50668334961
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852693557739
+[newY] -600.54943847656
+[newX] -292.53884887695
+[lastZ] 12.852694511414
+[lastY] -600.55194091797
+[lastX] -292.52047729492
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852691650391
+[newY] -600.5380859375
+[newX] -292.62231445313
+[lastZ] 12.852693557739
+[lastY] -600.54943847656
+[lastX] -292.53884887695
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0.98486590385437
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852688789368
+[newY] -600.52111816406
+[newX] -292.74557495117
+[lastZ] 12.852691650391
+[lastY] -600.5380859375
+[lastX] -292.62231445313
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFP[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 0
+[player] INSTANCE
+[this] TABLE
+[newZ] 32.794399261475
+[newY] -442.61810302734
+[newX] -232.03140258789
+[lastZ] 0
+[lastY] 0
+[lastX] 0
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852800369263
+[newY] -597.05932617188
+[newX] -293.01431274414
+[lastZ] 32.794399261475
+[lastY] -442.61810302734
+[lastX] -232.03140258789
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 32.79439163208
+[newY] -442.61810302734
+[newX] -232.03140258789
+[lastZ] 12.852800369263
+[lastY] -597.05932617188
+[lastX] -293.01431274414
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.847244262695
+[newY] -597.05932617188
+[newX] -293.01431274414
+[lastZ] 32.79439163208
+[lastY] -442.61810302734
+[lastX] -232.03140258789
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.05932617188
+[newX] -293.01431274414
+[lastZ] 12.847244262695
+[lastY] -597.05932617188
+[lastX] -293.01431274414
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.06842041016
+[newX] -292.99450683594
+[lastZ] 12.852766990662
+[lastY] -597.05932617188
+[lastX] -293.01431274414
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852766990662
+[newY] -597.07263183594
+[newX] -292.98571777344
+[lastZ] 12.852766990662
+[lastY] -597.06842041016
+[lastX] -292.99450683594
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852767944336
+[newY] -597.08123779297
+[newX] -292.96832275391
+[lastZ] 12.852766990662
+[lastY] -597.07263183594
+[lastX] -292.98571777344
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 12.852767944336
+[newY] -597.08410644531
+[newX] -292.96267700195
+[lastZ] 12.852767944336
+[lastY] -597.08123779297
+[lastX] -292.96832275391
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.038482666016
+[newY] -597.16003417969
+[newX] -292.81430053711
+[lastZ] 12.852767944336
+[lastY] -597.08410644531
+[lastX] -292.96267700195
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.127854347229
+[newY] -597.20031738281
+[newX] -292.73553466797
+[lastZ] 13.038482666016
+[lastY] -597.16003417969
+[lastX] -292.81430053711
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.347011566162
+[newY] -597.31420898438
+[newX] -292.51303100586
+[lastZ] 13.127854347229
+[lastY] -597.20031738281
+[lastX] -292.73553466797
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.516137123108
+[newY] -597.42810058594
+[newX] -292.29055786133
+[lastZ] 13.347011566162
+[lastY] -597.31420898438
+[lastX] -292.51303100586
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.635246276855
+[newY] -597.5419921875
+[newX] -292.0680847168
+[lastZ] 13.516137123108
+[lastY] -597.42810058594
+[lastX] -292.29055786133
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.663833618164
+[newY] -597.57995605469
+[newX] -291.99392700195
+[lastZ] 13.635246276855
+[lastY] -597.5419921875
+[lastX] -292.0680847168
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.716436386108
+[newY] -597.69494628906
+[newX] -291.76928710938
+[lastZ] 13.663833618164
+[lastY] -597.57995605469
+[lastX] -291.99392700195
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.723276138306
+[newY] -597.77087402344
+[newX] -291.62100219727
+[lastZ] 13.716436386108
+[lastY] -597.69494628906
+[lastX] -291.76928710938
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.691865921021
+[newY] -597.884765625
+[newX] -291.39862060547
+[lastZ] 13.723276138306
+[lastY] -597.77087402344
+[lastX] -291.62100219727
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/main.nut line [578]
+*FUNCTION [onPlayerMove()] scripts/main.nut line [351]
+
+LOCALS
+[currentFPS] 7.5633430480957
+[player] INSTANCE
+[this] TABLE
+[newZ] 13.610454559326
+[newY] -597.99865722656
+[newX] -291.17623901367
+[lastZ] 13.691865921021
+[lastY] -597.884765625
+[lastX] -291.39862060547
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [UpdatePlayerAverageFPS()] scripts/ma[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/compone[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  The server has been loaded without any errors.
+
+AN ERROR HAS OCCURED [the index 'urdu' does not exist]
+
+CALLSTACK
+*FUNCTION [SyntaxMsg()] scripts/components/cstmFuncs.nut line [247]
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [105]
+
+LOCALS
+[player] INSTANCE
+[msg] "/login pass"
+[this] TABLE
+[text] NULL
+[cmd] "login"
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  The server has been loaded without any errors.
+
+AN ERROR HAS OCCURED [the index 'v' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/components/commands.nut line [33]
+
+LOCALS
+[@ITERATOR@] 1
+[player] INSTANCE
+[@INDEX@] 0
+[loaded] ARRAY
+[text] NULL
+[cmd] "reload"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 12
+[newHour] 13
+[oldMin] 11
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 13
+[newHour] 13
+[oldMin] 12
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 14
+[newHour] 13
+[oldMin] 13
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 15
+[newHour] 13
+[oldMin] 14
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 16
+[newHour] 13
+[oldMin] 15
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 17
+[newHour] 13
+[oldMin] 16
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 18
+[newHour] 13
+[oldMin] 17
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 19
+[newHour] 13
+[oldMin] 18
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 20
+[newHour] 13
+[oldMin] 19
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 21
+[newHour] 13
+[oldMin] 20
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 22
+[newHour] 13
+[oldMin] 21
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 23
+[newHour] 13
+[oldMin] 22
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 24
+[newHour] 13
+[oldMin] 23
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 25
+[newHour] 13
+[oldMin] 24
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 26
+[newHour] 13
+[oldMin] 25
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 27
+[newHour] 13
+[oldMin] 26
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 28
+[newHour] 13
+[oldMin] 27
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 29
+[newHour] 13
+[oldMin] 28
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 30
+[newHour] 13
+[oldMin] 29
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 31
+[newHour] 13
+[oldMin] 30
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 32
+[newHour] 13
+[oldMin] 31
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 33
+[newHour] 13
+[oldMin] 32
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 34
+[newHour] 13
+[oldMin] 33
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 35
+[newHour] 13
+[oldMin] 34
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 36
+[newHour] 13
+[oldMin] 35
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 37
+[newHour] 13
+[oldMin] 36
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 38
+[newHour] 13
+[oldMin] 37
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 39
+[newHour] 13
+[oldMin] 38
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 40
+[newHour] 13
+[oldMin] 39
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 41
+[newHour] 13
+[oldMin] 40
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 42
+[newHour] 13
+[oldMin] 41
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 43
+[newHour] 13
+[oldMin] 42
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 44
+[newHour] 13
+[oldMin] 43
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 45
+[newHour] 13
+[oldMin] 44
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 46
+[newHour] 13
+[oldMin] 45
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 47
+[newHour] 13
+[oldMin] 46
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 48
+[newHour] 13
+[oldMin] 47
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 49
+[newHour] 13
+[oldMin] 48
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 50
+[newHour] 13
+[oldMin] 49
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 51
+[newHour] 13
+[oldMin] 50
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 52
+[newHour] 13
+[oldMin] 51
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 53
+[newHour] 13
+[oldMin] 52
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 54
+[newHour] 13
+[oldMin] 53
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 55
+[newHour] 13
+[oldMin] 54
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 56
+[newHour] 13
+[oldMin] 55
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 57
+[newHour] 13
+[oldMin] 56
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] [MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  The server has been loaded without any errors.
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 6
+[newHour] 12
+[oldMin] 5
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 7
+[newHour] 12
+[oldMin] 6
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 8
+[newHour] 12
+[oldMin] 7
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 9
+[newHour] 12
+[oldMin] 8
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 10
+[newHour] 12
+[oldMin] 9
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 11
+[newHour] 12
+[oldMin] 10
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 12
+[newHour] 12
+[oldMin] 11
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 13
+[newHour] 12
+[oldMin] 12
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 14
+[newHour] 12
+[oldMin] 13
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 15
+[newHour] 12
+[oldMin] 14
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 16
+[newHour] 12
+[oldMin] 15
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 17
+[newHour] 12
+[oldMin] 16
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 18
+[newHour] 12
+[oldMin] 17
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 19
+[newHour] 12
+[oldMin] 18
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 20
+[newHour] 12
+[oldMin] 19
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 21
+[newHour] 12
+[oldMin] 20
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 22
+[newHour] 12
+[oldMin] 21
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 23
+[newHour] 12
+[oldMin] 22
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 24
+[newHour] 12
+[oldMin] 23
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 25
+[newHour] 12
+[oldMin] 24
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 26
+[newHour] 12
+[oldMin] 25
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 27
+[newHour] 12
+[oldMin] 26
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 28
+[newHour] 12
+[oldMin] 27
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 29
+[newHour] 12
+[oldMin] 28
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 30
+[newHour] 12
+[oldMin] 29
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 31
+[newHour] 12
+[oldMin] 30
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 32
+[newHour] 12
+[oldMin] 31
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 33
+[newHour] 12
+[oldMin] 32
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 34
+[newHour] 12
+[oldMin] 33
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 35
+[newHour] 12
+[oldMin] 34
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 36
+[newHour] 12
+[oldMin] 35
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 37
+[newHour] 12
+[oldMin] 36
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 38
+[newHour] 12
+[oldMin] 37
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 39
+[newHour] 12
+[oldMin] 38
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 40
+[newHour] 12
+[oldMin] 39
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 41
+[newHour] 12
+[oldMin] 40
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 42
+[newHour] 12
+[oldMin] 41
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 43
+[newHour] 12
+[oldMin] 42
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 44
+[newHour] 12
+[oldMin] 43
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 45
+[newHour] 12
+[oldMin] 44
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 46
+[newHour] 12
+[oldMin] 45
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 47
+[newHour] 12
+[oldMin] 46
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 48
+[newHour] 12
+[oldMin] 47
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 49
+[newHour] 12
+[oldMin] 48
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 50
+[newHour] 12
+[oldMin] 49
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 51
+[newHour] 12
+[oldMin] 50
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 52
+[newHour] 12
+[oldMin] 51
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 53
+[newHour] 12
+[oldMin] 52
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 54
+[newHour] 12
+[oldMin] 53
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLS[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  The server has been loaded without any errors.
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 20
+[newHour] 12
+[oldMin] 19
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 21
+[newHour] 12
+[oldMin] 20
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 22
+[newHour] 12
+[oldMin] 21
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 23
+[newHour] 12
+[oldMin] 22
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 24
+[newHour] 12
+[oldMin] 23
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 25
+[newHour] 12
+[oldMin] 24
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 26
+[newHour] 12
+[oldMin] 25
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 27
+[newHour] 12
+[oldMin] 26
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 28
+[newHour] 12
+[oldMin] 27
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 29
+[newHour] 12
+[oldMin] 28
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 30
+[newHour] 12
+[oldMin] 29
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 31
+[newHour] 12
+[oldMin] 30
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 32
+[newHour] 12
+[oldMin] 31
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 33
+[newHour] 12
+[oldMin] 32
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 34
+[newHour] 12
+[oldMin] 33
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [43]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 35
+[newHour] 12
+[oldMin] 34
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the ind[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  The server has been loaded without any errors.
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 9
+[newHour] 12
+[oldMin] 8
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 10
+[newHour] 12
+[oldMin] 9
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 11
+[newHour] 12
+[oldMin] 10
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 12
+[newHour] 12
+[oldMin] 11
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 13
+[newHour] 12
+[oldMin] 12
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 14
+[newHour] 12
+[oldMin] 13
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 15
+[newHour] 12
+[oldMin] 14
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 16
+[newHour] 12
+[oldMin] 15
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 17
+[newHour] 12
+[oldMin] 16
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 18
+[newHour] 12
+[oldMin] 17
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 19
+[newHour] 12
+[oldMin] 18
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 20
+[newHour] 12
+[oldMin] 19
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 21
+[newHour] 12
+[oldMin] 20
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 22
+[newHour] 12
+[oldMin] 21
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 23
+[newHour] 12
+[oldMin] 22
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 24
+[newHour] 12
+[oldMin] 23
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 25
+[newHour] 12
+[oldMin] 24
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 26
+[newHour] 12
+[oldMin] 25
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 27
+[newHour] 12
+[oldMin] 26
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 28
+[newHour] 12
+[oldMin] 27
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 29
+[newHour] 12
+[oldMin] 28
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 30
+[newHour] 12
+[oldMin] 29
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 31
+[newHour] 12
+[oldMin] 30
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 32
+[newHour] 12
+[oldMin] 31
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 33
+[newHour] 12
+[oldMin] 32
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 34
+[newHour] 12
+[oldMin] 33
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 35
+[newHour] 12
+[oldMin] 34
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 36
+[newHour] 12
+[oldMin] 35
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 37
+[newHour] 12
+[oldMin] 36
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 38
+[newHour] 12
+[oldMin] 37
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 39
+[newHour] 12
+[oldMin] 38
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 40
+[newHour] 12
+[oldMin] 39
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/components/srvrFuncs.nut line [67]
+
+LOCALS
+[plr] INSTANCE[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  The server has been loaded without any errors.
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 4
+[newHour] 12
+[oldMin] 3
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 5
+[newHour] 12
+[oldMin] 4
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 6
+[newHour] 12
+[oldMin] 5
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 7
+[newHour] 12
+[oldMin] 6
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 8
+[newHour] 12
+[oldMin] 7
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 9
+[newHour] 12
+[oldMin] 8
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 10
+[newHour] 12
+[oldMin] 9
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 11
+[newHour] 12
+[oldMin] 10
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 12
+[newHour] 12
+[oldMin] 11
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 13
+[newHour] 12
+[oldMin] 12
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 14
+[newHour] 12
+[oldMin] 13
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 15
+[newHour] 12
+[oldMin] 14
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 16
+[newHour] 12
+[oldMin] 15
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 17
+[newHour] 12
+[oldMin] 16
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 18
+[newHour] 12
+[oldMin] 17
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 19
+[newHour] 12
+[oldMin] 18
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 20
+[newHour] 12
+[oldMin] 19
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 21
+[newHour] 12
+[oldMin] 20
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 22
+[newHour] 12
+[oldMin] 21
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 23
+[newHour] 12
+[oldMin] 22
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 24
+[newHour] 12
+[oldMin] 23
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 25
+[newHour] 12
+[oldMin] 24
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 26
+[newHour] 12
+[oldMin] 25
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 27
+[newHour] 12
+[oldMin] 26
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 28
+[newHour] 12
+[oldMin] 27
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 29
+[newHour] 12
+[oldMin] 28
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 30
+[newHour] 12
+[oldMin] 29
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 31
+[newHour] 12
+[oldMin] 30
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 32
+[newHour] 12
+[oldMin] 31
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 33
+[newHour] 12
+[oldMin] 32
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 34
+[newHour] 12
+[oldMin] 33
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 35
+[newHour] 12
+[oldMin] 34
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 36
+[newHour] 12
+[oldMin] 35
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 37
+[newHour] 12
+[oldMin] 36
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 38
+[newHour] 12
+[oldMin] 37
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 39
+[newHour] 12
+[oldMin] 38
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 40
+[newHour] 12
+[oldMin] 39
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 41
+[newHour] 12
+[oldMin] 40
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 42
+[newHour] 12
+[oldMin] 41
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 43
+[newHour] 12
+[oldMin] 42
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 44
+[newHour] 12
+[oldMin] 43
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 45
+[newHour] 12
+[oldMin] 44
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 46
+[newHour] 12
+[oldMin] 45
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 47
+[newHour] 12
+[oldMin] 46
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 48
+[newHour] 12
+[oldMin] 47
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 49
+[newHour] 12
+[oldMin] 48
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 50
+[newHour] 12
+[oldMin] 49
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 51
+[newHour] 12
+[oldMin] 50
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 52
+[newHour] 12
+[oldMin] 51
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 53
+[newHour] 12
+[oldMin] 52
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 54
+[newHour] 12
+[oldMin] 53
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 55
+[newHour] 12
+[oldMin] 54
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 56
+[newHour] 12
+[oldMin] 55
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 57
+[newHour] 12
+[oldMin] 56
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 58
+[newHour] 12
+[oldMin] 57
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 59
+[newHour] 12
+[oldMin] 58
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 0
+[newHour] 13
+[oldMin] 59
+[oldHour] 12
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 1
+[newHour] 13
+[oldMin] 0
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 2
+[newHour] 13
+[oldMin] 1
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 3
+[newHour] 13
+[oldMin] 2
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 4
+[newHour] 13
+[oldMin] 3
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 5
+[newHour] 13
+[oldMin] 4
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 6
+[newHour] 13
+[oldMin] 5
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 7
+[newHour] 13
+[oldMin] 6
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 8
+[newHour] 13
+[oldMin] 7
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 9
+[newHour] 13
+[oldMin] 8
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 10
+[newHour] 13
+[oldMin] 9
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 11
+[newHour] 13
+[oldMin] 10
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 12
+[newHour] 13
+[oldMin] 11
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 13
+[newHour] 13
+[oldMin] 12
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 14
+[newHour] 13
+[oldMin] 13
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 15
+[newHour] 13
+[oldMin] 14
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 16
+[newHour] 13
+[oldMin] 15
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 17
+[newHour] 13
+[oldMin] 16
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 18
+[newHour] 13
+[oldMin] 17
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 19
+[newHour] 13
+[oldMin] 18
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 20
+[newHour] 13
+[oldMin] 19
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 21
+[newHour] 13
+[oldMin] 20
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 22
+[newHour] 13
+[oldMin] 21
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 23
+[newHour] 13
+[oldMin] 22
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 24
+[newHour] 13
+[oldMin] 23
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 25
+[newHour] 13
+[oldMin] 24
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 26
+[newHour] 13
+[oldMin] 25
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 27
+[newHour] 13
+[oldMin] 26
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 28
+[newHour] 13
+[oldMin] 27
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 29
+[newHour] 13
+[oldMin] 28
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 30
+[newHour] 13
+[oldMin] 29
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 31
+[newHour] 13
+[oldMin] 30
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 32
+[newHour] 13
+[oldMin] 31
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 33
+[newHour] 13
+[oldMin] 32
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 34
+[newHour] 13
+[oldMin] 33
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 35
+[newHour] 13
+[oldMin] 34
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 36
+[newHour] 13
+[oldMin] 35
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 37
+[newHour] 13
+[oldMin] 36
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 38
+[newHour] 13
+[oldMin] 37
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 39
+[newHour] 13
+[oldMin] 38
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 40
+[newHour] 13
+[oldMin] 39
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 41
+[newHour] 13
+[oldMin] 40
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 42
+[newHour] 13
+[oldMin] 41
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 43
+[newHour] 13
+[oldMin] 42
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 44
+[newHour] 13
+[oldMin] 43
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 45
+[newHour] 13
+[oldMin] 44
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 46
+[newHour] 13
+[oldMin] 45
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 47
+[newHour] 13
+[oldMin] 46
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [317]
+
+LOCALS
+[plr] INSTANCE
+[i] 0
+[newMin] 48
+[newHour] 13
+[oldMin] 47
+[oldHour] 13
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'UpdatePlayerAverageFPS' does not exist]
+
+CALLSTACK
+*FUNCTION [onTimeChange()] scripts/main.nut line [
