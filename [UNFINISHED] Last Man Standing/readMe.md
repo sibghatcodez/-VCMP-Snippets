@@ -19,6 +19,14 @@
       <li>Average Ping</li>
     </ul>
   </li>
-  <li>...</li>
-  <li>...</li>
+  <li>Login Attempt Kick
+     <ul>
+      <li>Gives you 3 warnings on failed login and then kicks you</li>
+     </ul>
+</li>
+  <li>Languages
+  <ul>
+    <li>You can choose your language to EN (English) or Urdu, and the server will communicate with you according to your language.</li>
+  </ul>
+  </li>
 </ol>
