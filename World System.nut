@@ -94,9 +94,6 @@ function GetWorldData(worldID) {
 }
 function onPlayerJoin( player )
 {
-Message("[#159242]** [#ffffff]"+player.Name+" [#159242]Has Joined The Server");
-stats[ player.ID ] = PlayerClass();
-GetInfo(player);
 pData[ player.ID ] = PlayerData( player.Name );
 Object[ player.ID ] = null;
 }
