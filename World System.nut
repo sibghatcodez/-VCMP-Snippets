@@ -1,5 +1,20 @@
 Inside PlayerClass ->
 	 lastWorld = 0;
+
+class PlayerData
+{
+	MapDelete = false;
+	PositionMode = false;
+	Speed = "normal";
+	Editing = false;
+	Holding = false;
+	Motion = null;
+	LastKey = null;
+	CTRL = false;
+	car = null;
+}
+
+
 constants -> 
 	const WORLDS = 1000;
 	const WORLD_PRICE = 1000000;
