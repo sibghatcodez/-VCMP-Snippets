@@ -18,6 +18,7 @@ class PlayerData
 constants -> 
 	const WORLDS = 1000;
 	const WORLD_PRICE = 1000000;
+	const Motion_Speed = 100;
 
 Inside onScriptLoad() ->
 	 db <- ConnectSQL("Worlds.db");
