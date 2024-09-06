@@ -61,9 +61,7 @@ case "register":
     if(stats[player.ID].Reg) ErrorMsg("Your account is already registered.",player);
     else if (!text) SyntaxMsg("/register pass",player);
     else if (text.len() < 4) ErrorMsg("Password is too short.",player);
-    else if (text == "123") ErrorMsg("Password is too basic.",player);
-    else if (text == "1234") ErrorMsg("Password is too basic.",player);
-    else if (text == "12345") ErrorMsg("Password is too basic.",player);
+    else if (text == "123" || text == "1234" || text == "12345") ErrorMsg("Password is too basic.",player);
     else {
         local Password = SHA256(text);
         local date = date();
